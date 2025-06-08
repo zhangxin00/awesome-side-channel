@@ -1,0 +1,26 @@
+HertzBleed: turning power side-channel attacks into remote timing attacks on x86
+
+Scheduled Disclosure: Turning Power Into Timing Without Frequency Scaling
+
+PLATYPUS: Software-based Power Side-Channel Attacks on x86
+
+HammerScope: Observing DRAM Power Consumption Using Rowhammer
+
+FPGA-Based Remote Power Side-Channel Attacks
+
+Spectre Attacks: Exploiting Speculative Execution
+
+SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks
+
+iLeakage: Browser-based Timerless Speculative Execution Attacks on Apple Devices
+
+SysBumps: Exploiting Speculative Execution in System Calls for Breaking KASLR in macOS for Apple Silicon
+
+There's always a bigger fish: a clarifying analysis of a machine-learning-assisted side-channel attack
+
+Edge Devices:
+SoK: Where's the "up"?! A Comprehensive (bottom-up) Study on the Security of Arm Cortex-M Systems
+LeakyOhm: Secret Bits Extraction using Impedance Analysis
+Stealing Neural Network Structure Through Remote FPGA Side-Channel Analysis
+
+Don’t Mesh Around: Side-Channel Attacks and Mitigations on Mesh Interconnects
