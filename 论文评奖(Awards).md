@@ -24,11 +24,12 @@ October 1st, 2024, Author Notification
 
 
 
+
+
 ### Applied Research Competition
 https://www.csaw.io/research
 
 This "Best Paper Award" assesses the top scholarly security research from the previous year. The focus of this competition is on research that has a practical impact.  With eligibility limited to already published papers or camera-ready papers, CSAW has a reputation for drawing some of the best security research worldwide.
-
 
 Paper Submission Deadline
 North America:  by 8 September 2024
@@ -43,6 +44,9 @@ by 15 October 2024
 by 20 October 2024
 
 
+
+
+
 ### CyberSecurity Best Paper Awards
 https://cybersecurity.springeropen.com/award-2025
 
@@ -52,6 +56,17 @@ Any paper by any author written in the area of cybersecurity is eligible for nom
 **February 28** 2025, Submission deadline 
 
 
+
+
+
+
+### Human-Competitive Awards
+https://www.human-competitive.org/awards
+
+The first annual "Humies" competition was held at the 2004 Genetic and Evolutionary Computation Conference (GECCO-2004) in Seattle. Entries were solicited for cash awards for human-competitive results that were produced by any form of genetic and evolutionary computation and that were published in the open literature during previous year. The publication can be a conference paper (e.g., a regular paper, poster, or late-breaking paper) or any work published elsewhere in the open literature (e.g., a journal article, technical report, thesis, book, book chapter) or other paper that has received final unconditional acceptance and not subject to further editing (that is, is "in press")
+
+**May 30**, 2025 — Deadline for entries (consisting of one TEXT file, PDF files for one or more papers, and possible "in press" documentation (explained below)).
+June 13, 2025 — Finalists will be notified by e-mail 
 
 
 
