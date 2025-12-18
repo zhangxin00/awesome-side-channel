@@ -1,11 +1,11 @@
-# 功耗侧信道
+# Prefetcher侧信道
 
-作为最早的侧信道之一，最初的功耗侧信道使用物理设备监听电源线的电压/电流波动，进而恢复密码芯片中使用的密钥。随着体系结构和侧信道攻击发展，越来越多的功耗管理优化技术被提出，程序间的相互作用导致许多可被观测的信号（architectural hints）出现，进而导致了一系列远程侧信道攻击的发生。
+Prefetcher是与cache相结合的加速内存访问的另一个机制。他通过历史内存访问记录，预测之后可能访问的内存位置，并提前将其数据预取到Cache中。
 
-本周，你需要阅读以下几篇文章，并自行搜索本年度发表的三篇可归类为（远程）功耗侧信道的文章。
+本周，你需要阅读以下几篇文章，读完之后，需要（1）用英文为每篇文章写作一段摘要，不要使用大模型润色。（2）自行额外搜索近2年发表的5篇具有代表性的可归类为（远程）功耗侧信道的文章（按喜爱程度排序）。
 
-[S&P'21] PLATYPUS: Software-based Power Side-Channel Attacks on x86
+[ASPLOS'23] AfterImage: Leaking Control Flow Data and Tracking Load Operations via the Hardware Prefetcher
 
-[SEC'22] Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86
+[SEC‘23] BunnyHop: Exploiting the Instruction Prefetcher
 
-[XXX] TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit
+[HPCA'24] PrefetchX: Cross-Core Cache-Agnostic Prefetcher-Based Side-Channel Attacks

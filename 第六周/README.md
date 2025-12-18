@@ -1,11 +1,13 @@
-# 功耗侧信道
+# Cache侧信道
 
-作为最早的侧信道之一，最初的功耗侧信道使用物理设备监听电源线的电压/电流波动，进而恢复密码芯片中使用的密钥。随着体系结构和侧信道攻击发展，越来越多的功耗管理优化技术被提出，程序间的相互作用导致许多可被观测的信号（architectural hints）出现，进而导致了一系列远程侧信道攻击的发生。
+Cache是加速CPU内存访问的最主要机制之一，但是cache状态的变化也可以泄漏高精度的受害者信息。
 
-本周，你需要阅读以下几篇文章，并自行搜索本年度发表的三篇可归类为（远程）功耗侧信道的文章。
+本周，你需要阅读以下几篇文章，读完之后，需要（1）用英文为每篇文章写作一段摘要，不要使用大模型润色。（2）自行额外搜索近2年发表的5篇具有代表性的可归类为Cache侧信道的文章（按喜爱程度排序）。
 
-[SEC'22] Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86
+[SEC'14] FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack
 
-[S&P'25] Scheduled Disclosure: Turning Power Into Timing Without Frequency Scaling
+[S&P'15] Last-Level Cache Side-Channel Attacks are Practical
 
-[XXX] TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit
+[SEC'23] (M)Wait For It: Bringing the Gap Between Architectural and Microarchitectural Side Channels
+
+[CCS'24] Spec-o-Scope: Cache Probing at Cache Speed

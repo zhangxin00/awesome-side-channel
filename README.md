@@ -1,5 +1,5 @@
 # Awesome Side Channel
-该仓库用于低年级研究生入门微架构攻击/侧信道攻击方向，希望通过3个月左右的时间让读者掌握该方向的基本概念，并在6个月时掌握开展研究所需要的基本能力。
+该仓库用于低年级研究生入门微架构攻击/侧信道攻击方向，希望通过3个月左右的时间让读者掌握该方向的基本概念，并在6个月时掌握开展研究所需要的基本能力。Optional代表可以根据个人兴趣/需要所跳过。
 
 ## 目录
 
@@ -11,29 +11,32 @@
 
 * 第三周: [体系结构基础知识](./第三周/README.md)
 
-* 第四周: [前沿研究领域及团队（吃瓜时间!）](./第四周/README.md)
+* 第四周: [前沿研究领域及团队](./第四周/README.md) (Optional)
 
-* 第五周: [功耗侧信道](./功耗侧信道/README.md)
+* 第五周: [功耗侧信道](./第五周/README.md)
 
-* 第六周: Cache侧信道
+* 第六周: [Cache侧信道](./第六周/README.md)
 
-* 第七周: Spectre攻击及变体
+* 第七周: [Spectre攻击及变体](./第七周/README.md)
 
-* 第八周: Prefetcher的利用
+* 第八周: [Prefetcher的利用](./第八周/README.md)（Optional）
 
-* 第九周: 中断侧信道
+* 第九周: [中断侧信道](./第九周/README.md)
 
-* 第十周: 可信执行环境及相关攻击
+* 第十周: [可信执行环境及相关攻击](./第十周/README.md)（Optional）
 
-* 第十一周: 硬件安全与密码学交叉方向
+* 第十一周: [硬件安全与密码学交叉方向](./第十一周/README.md)
 
-* 第十二周: 硬件安全与人工智能交叉方向
+* 第十二周: [硬件安全与人工智能交叉方向](./第十二周/README.md)
+
 
 Emerging Hardware
 
 * 第十三周: FPGA侧信道
 
 * 第十四周: GPU侧信道
+
+
 
 发表文章的套路: 侧信道+平台+case
 
@@ -62,4 +65,5 @@ Emerging Hardware
 写作及投稿请参考 写作及投稿
 
 [Latex](https://github.com/dspinellis/latex-advice) 
+
 yuval.yarom.org/resources.php
