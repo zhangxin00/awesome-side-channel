@@ -8,4 +8,6 @@
 
 [CCS'24] Testing Side-Channel Security of Cryptographic Implementations against Future Microarchitectures
 
+[CCS‘25] Securing Cryptographic Software via Typed Assembly Language
+
 [ASPLOS'25] Protecting cryptographic code against Spectre-RSB (and, in fact, all known Spectre variants)
