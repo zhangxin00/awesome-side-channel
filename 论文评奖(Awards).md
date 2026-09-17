@@ -1,3 +1,9 @@
+# 论文奖项与博士生论坛
+
+[返回首页](README.md)
+
+以下为原收集的 2024–2025 年通知，供查找奖项和往届工作。申报日期以当年官网通知为准。
+
 ### IEEE Micro's Top Picks
 https://www.computer.org/digital-library/magazines/mi/computer-architecture-conferences
 
@@ -5,10 +11,6 @@ IEEE Micro will publish its annual “Top Picks from the Computer Architecture C
 
 **3 November 2023**, Submission Deadline
 July/August 2024, Publication
-
-
-
-
 
 ### Top Picks in Hardware and Embedded Security
 https://hwsectoppick24.wordpress.com/
@@ -21,10 +23,6 @@ Eligible for submission are conference or journal papers in the area of hardware
 
 **September 12th**, 2024, Submission Deadline (AoE)
 October 1st, 2024, Author Notification
-
-
-
-
 
 ### Applied Research Competition
 https://www.csaw.io/research
@@ -43,10 +41,6 @@ by 20 September 2023
 by 15 October 2024
 by 20 October 2024
 
-
-
-
-
 ### CyberSecurity Best Paper Awards
 https://cybersecurity.springeropen.com/award-2025
 
@@ -54,11 +48,6 @@ Any paper by any author written in the area of cybersecurity is eligible for nom
 
 *October 2024,  Call for nomination opened
 **February 28** 2025, Submission deadline 
-
-
-
-
-
 
 ### Human-Competitive Awards
 https://www.human-competitive.org/awards
@@ -68,15 +57,10 @@ The first annual "Humies" competition was held at the 2004 Genetic and Evolution
 **May 30**, 2025 — Deadline for entries (consisting of one TEXT file, PDF files for one or more papers, and possible "in press" documentation (explained below)).
 June 13, 2025 — Finalists will be notified by e-mail 
 
-
-
-
 ### ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award
 The SIGARCH/TCCA Outstanding Dissertation award will recognize excellent thesis research by doctoral candidates in the field of computer architecture. Dissertations will be reviewed for technical depth and significance of the research contribution, potential impact on computer architecture, and quality of presentation. The award will carry a monetary value of $1000. The winner will receive the monetary award; honorable mentions receive no monetary award.
 
 **March 1**, 2025, Submission Deadline
-
-
 
 ### HOST 2025 PhD Dissertation Competition
 http://www.hostsymposium.org/call-for-competition.php
@@ -86,10 +70,6 @@ Those who will defend their Ph.D. dissertation no later than May 1, 2026 as well
 
 **February 15**, 2025: Deadline for applications
 February 24, 2025 March 10, 2025: Notification of acceptance
-
-
-
-
 
 ### Ph.D. Forum at DAC
 https://www.dac.com/Attend/Students-Scholarships/PhD-Forum

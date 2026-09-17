@@ -1,24 +1,16 @@
-# side-channel
-A repository for beginners in the field of side channels.
+# 经典实验代码
 
-[spectrev1] https://github.com/Eugnis/spectre-attack
-[spectrev2] https://github.com/Anton-Cao/spectrev2-poc
-What can you learn from this code: This code is very simple but it describes a really impactful attack, which won the only 1 Best Paper Award in IEEE S&P 2019 and has more than 3000 citations until the time of writing this Readme file.
+[返回首页](../README.md)
 
-[Mastik] https://github.com/Secure-AI-Systems-Group/Mastik
-What can you learn from this code: Run one of the most popular attacks (cache side channel attack) and extract real data from shared hardware by yourself.
+先读项目 README，确认机器、系统和权限是否满足要求，再按步骤运行。复现时记下代码版本、环境、命令和结果，便于比较和排错。
 
-[Hertzbleed] https://github.com/FPSG-UIUC/hertzbleed
-What can you learn from this code: This is one of the best attack in recent 3 years and you can learn how modern DVFS design introduces addtional security risks.
-
-[bigger-fish] https://github.com/jackcook/bigger-fish
-What can you learn from this code: Use machine learning to assist side channel attack and recognize why we should be careful throughout our research.
-
-[mwait] https://github.com/cispa/mwait
-What can you learn from this code: This repo is well-organized and clearly documents the requirements of software and hardware for each experiment.
-
-[SysBumps] https://github.com/koreacsl/SysBumps
-What can you learn from this code: If you want to try Apple side channel, this code is much easier to run compared to other Apple side channel work.
-
-[RDS] https://github.com/mirjanastojilovic/RDS
-The most convenient way to run an FPGA side channel attack.
+| 项目 | 可以学习什么 | 上游仓库 |
+| --- | --- | --- |
+| [Spectre v1](spectrev1/README.md) | 理解边界检查绕过与缓存泄漏 | [Eugnis/spectre-attack](https://github.com/Eugnis/spectre-attack) |
+| [Spectre v2](spectrev2/README.md) | 理解间接分支预测攻击 | [Anton-Cao/spectrev2-poc](https://github.com/Anton-Cao/spectrev2-poc) |
+| [Mastik](Mastik/README.md) | 缓存侧信道的测量与分析 | [Secure-AI-Systems-Group/Mastik](https://github.com/Secure-AI-Systems-Group/Mastik) |
+| [Hertzbleed](hertzbleed/README.md) | 功耗与动态调频怎样影响执行时间 | [FPSG-UIUC/hertzbleed](https://github.com/FPSG-UIUC/hertzbleed) |
+| [Bigger Fish](bigger-fish/README.md) | 检查机器学习辅助侧信道分析的实验结论 | [jackcook/bigger-fish](https://github.com/jackcook/bigger-fish) |
+| [(M)WAIT for It](mwait/README.md) | 利用等待指令观察微架构变化 | [cispa/mwait](https://github.com/cispa/mwait) |
+| [SysBumps](SysBumps/README.md) | Apple Silicon 上的推测执行攻击 | [koreacsl/SysBumps](https://github.com/koreacsl/SysBumps) |
+| [RDS](RDS/README.md) | FPGA 上的远程功耗侧信道 | [mirjanastojilovic/RDS](https://github.com/mirjanastojilovic/RDS) |
