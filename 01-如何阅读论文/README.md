@@ -2,7 +2,7 @@
 
 [返回首页](../README.md) · [入组准备](../00-入组准备/README.md) · [下一周](../02-网络安全基础/README.md)
 
-本周读 Spectre，练习找出论文的问题、方法和实验结论。
+本周读 PLATYPUS，练习找出论文的问题、方法和实验结论。
 
 ## 1. 认识论文来源
 
@@ -22,7 +22,7 @@
 
 ## 4. 本周论文与补充材料
 
-阅读 **Spectre Attacks: Exploiting Speculative Execution（IEEE S&P 2019）**：[本地 PDF](2019-Spectre.pdf)。在 Zotero 中保存条目并核对版本。
+阅读 **PLATYPUS: Software-based Power Side-Channel Attacks on x86（IEEE S&P 2021）**：[本地 PDF](../07-功耗侧信道/2021-PLATYPUS.pdf)。在 Zotero 中保存条目并核对版本。
 
 观看视频 [An Introduction to Microarchitectural Attacks](https://www.youtube.com/watch?v=hgxPXGd_rR0)。
 
