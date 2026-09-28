@@ -24,4 +24,8 @@ Spectre 利用错误推测执行受害者中的特定代码，再通过缓存等
 - [iLeakage: Browser-based Timerless Speculative Execution Attacks on Apple Devices](2023-iLeakage.pdf)
 - [SysBumps: Exploiting Speculative Execution in System Calls for Breaking KASLR in macOS for Apple Silicon](2024-SysBumps-artifact-draft.pdf)（匿名草稿）
 
-本地 SysBumps PDF 是实验包中的匿名草稿，引用以 [CCS 2024 正式记录](https://doi.org/10.1145/3658644.3690189)为准。
+思考：
+（1）Spectre为什么获得了这么大的关注和影响力
+（2）比较Spectre-v1和Spectre-v2，以及它们相应的防御方式
+（3）Spectre除了缓存还可以通过什么方式辅助泄漏数据
+（4）不同架构的芯片（Intel/AMD/ARM/RISC-V CPU、GPU、NPU,）是否都存在Spectre风险
