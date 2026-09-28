@@ -82,4 +82,4 @@ Please use the following BibTeX entry:
 
 ## License
 
-This repository is available under the MIT license. See the [LICENSE](/LICENSE.md) file for more details.
+This repository is available under the MIT license. See the [LICENSE](LICENSE.md) file for more details.

@@ -22,9 +22,15 @@
 
 ## 4. 本周论文与补充材料
 
-阅读 **PLATYPUS: Software-based Power Side-Channel Attacks on x86（IEEE S&P 2021）**：[本地 PDF](../07-功耗侧信道/2021-PLATYPUS.pdf)。在 Zotero 中保存条目并核对版本。
+阅读 **PLATYPUS: Software-based Power Side-Channel Attacks on x86（IEEE S&P 2021）**：[本地 PDF](./2021-PLATYPUS.pdf)。在 Zotero 中保存条目并核对版本。
 
 观看视频 [An Introduction to Microarchitectural Attacks](https://www.youtube.com/watch?v=hgxPXGd_rR0)。
+
+思考：
+
+1. 体系结构与安全有什么关系？是否所有安全问题都可以理解为某种设计机制的副作用？
+
+2. 论文的 Introduction 是否概括了主要贡献？引言的各段分别对应正文中的哪些内容？
 
 ## 5. 本周任务
 

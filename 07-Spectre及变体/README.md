@@ -1,6 +1,6 @@
-# 第八周：Spectre 及变体
+# 第七周：Spectre 及变体
 
-[返回首页](../README.md) · [上一周](../07-功耗侧信道/README.md) · [下一周](../09-中断侧信道/README.md)
+[返回首页](../README.md) · [上一周](../06-功耗侧信道/README.md) · [下一周](../08-中断侧信道/README.md)
 
 Spectre 利用错误推测执行受害者中的特定代码，再通过缓存等通道泄漏数据。阅读时注意攻击需要什么代码、硬件和训练条件。
 
@@ -22,10 +22,14 @@ Spectre 利用错误推测执行受害者中的特定代码，再通过缓存等
 
 - [SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks](2022-SpecHammer.pdf)
 - [iLeakage: Browser-based Timerless Speculative Execution Attacks on Apple Devices](2023-iLeakage.pdf)
-- [SysBumps: Exploiting Speculative Execution in System Calls for Breaking KASLR in macOS for Apple Silicon](2024-SysBumps-artifact-draft.pdf)（匿名草稿）
+- [SysBumps: Exploiting Speculative Execution in System Calls for Breaking KASLR in macOS for Apple Silicon](2024-SysBumps-artifact-draft.pdf)
 
 思考：
-（1）Spectre为什么获得了这么大的关注和影响力
-（2）比较Spectre-v1和Spectre-v2，以及它们相应的防御方式
-（3）Spectre除了缓存还可以通过什么方式辅助泄漏数据
-（4）不同架构的芯片（Intel/AMD/ARM/RISC-V CPU、GPU、NPU,）是否都存在Spectre风险
+
+1. Spectre 为什么受到广泛关注？
+
+2. Spectre v1 和 v2 有什么区别？相应的防御方法是什么？
+
+3. Spectre 除了缓存，还能通过哪些通道泄漏数据？
+
+4. 不同平台（Intel、AMD、ARM、RISC-V CPU，以及 GPU、NPU）是否都存在 Spectre 风险？
