@@ -15,3 +15,9 @@
 访问 GitHub、论文网站遇到网络问题时，参照 [Clash：安装与简单使用](04-Clash网络代理.md)。订阅码请私聊张鑫老师获取。
 
 Zotero 和 LaTeX 可以在个人电脑上练习。SSH 需要向管理员申请服务器账号，确认地址、端口和访问方式。北大 VPN 需要相应校园网账号，其他同学使用所在单位的网络入口。
+
+## 写作与汇报材料
+
+- [Writing Computer Architecture Papers（Word）](Writing%20Computer%20Architecture%20Papers.docx)：体系结构论文写作参考。
+- [Writing for Architecture Conferences（PPT）](Writing%20for%20Architecture%20Conferences.pptx)：体系结构会议论文写作讲义。
+- [NUS 组会汇报模板（PPT）](NUS_template_GroupMeeting.pptx)：准备组会汇报时使用。
