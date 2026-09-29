@@ -3,7 +3,9 @@
 [返回入组准备](README.md) · [上一节：Zotero 看论文](01-Zotero看论文.md) · [下一节：LaTeX 写论文](03-LaTeX写论文.md)
 
 SSH 用来远程登录实验室服务器。以下示例中的用户名、地址和端口要换成管理员提供的信息。
+
 Windows建议安装Xshell。
+
 Linux\macOS可以直接使用终端。
 
 ## 1. 准备账号与连接信息
